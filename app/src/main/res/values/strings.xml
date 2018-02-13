@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name"><font color="white">Football Score Keeper</font></string>
+    <string name="home_text">Home</string>
+    <string name="touchdown">Touchdown!</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="reset">Reset</string>
+    <string name="home">Home</string>
+    <string name="zero">0</string>
+    <string name="two_point_attempt">2 Point Attempt</string>
+    <string name="safety">Safety</string>
+    <string name="visitor">Visitor</string>
+    <string name="football_score_board">Football Score Board</string>
 </resources>
